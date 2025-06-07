@@ -23,15 +23,3 @@
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 
 ---
-
-## 📚 Em aprendizado
-
-Atualmente me aprofundo em:
-
-- 🔹 **TypeScript**
-- 🔹 **React Native**
-- 🔹 **Boas práticas de UI/UX**
-
----
-
-**Obrigada por visitar meu perfil!** 🚀✨
