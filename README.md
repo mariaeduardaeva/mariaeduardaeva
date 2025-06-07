@@ -21,9 +21,3 @@
 ### 🎨 Design
 
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
-
----
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=mariaeduardaeva&show_icons=true&theme=radical)
-
----
