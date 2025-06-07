@@ -1,4 +1,4 @@
-# Olá! 👋 Eu sou a Maria Eduarda.
+# Olá! 👋 Sou Maria Eduarda.
 
 🎓 Estudante de **Sistemas de Informação** na Universidade Potiguar (Natal - RN).  
 🌐 Desenvolvedora focada em **Websites** e **Interfaces Mobile**.  
